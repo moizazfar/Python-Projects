@@ -1,0 +1,3 @@
+Black Sheep,Rachel Harrison,Fiction,True
+Alice,Christina Henry,Dark,True
+The Great Gatsby,F. Scott Fitzgerald,Classic,True
