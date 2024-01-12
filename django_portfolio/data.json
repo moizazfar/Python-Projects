@@ -1,0 +1,10 @@
+{
+  "NAME": "Moiz Azfar",
+  "ABOUTME": "I am a software developer with experience in web development 😘, mobile app development and cloud computing. My main focus is ondeveloping applications that are scalable.",
+  "LANGUAGES": ["Python", "JAVA", "C++", "JavaScript"],
+  "PROJECTS": [
+    ["filter drama", "GOOGLE", "Google is an amazing search engine"],
+    ["place", "YouTube", "The best video sharing platform"],
+    ["whatshot", "GMAIL", "You all know what it is! 😂"]
+  ]
+}
